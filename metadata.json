@@ -1,0 +1,5 @@
+{
+  "name": "Chronos Task Manager",
+  "description": "A comprehensive calendar-based to-do application with day, week, month, and year views, featuring priority scoring and task persistence.",
+  "requestFramePermissions": []
+}
